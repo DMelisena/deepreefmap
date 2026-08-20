@@ -16,6 +16,7 @@ dist/
 out/
 out_*/
 viser_exports/
+webapp_jobs/
 
 # Calibration diagnostics (generated)
 camera_profiles/*_diagnostics/
